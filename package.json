@@ -1,0 +1,19 @@
+{
+  "name": "MisskeyConnectDesktop",
+  "version": "0.0.0",
+  "description": "Unofficial Misskey client software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marihachi/MisskeyConnectForDesktop.git"
+  },
+  "author": "marihachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marihachi/MisskeyConnectForDesktop/issues"
+  },
+  "homepage": "https://github.com/marihachi/MisskeyConnectForDesktop"
+}
