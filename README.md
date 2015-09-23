@@ -1,5 +1,5 @@
 # MisskeyConnectForDesktop
-Unofficial Misskey client software
+You and Misskey connect
 
 ## Contribution
 We welcome your contributions.
